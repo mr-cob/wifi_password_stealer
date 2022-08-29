@@ -44,4 +44,3 @@ with open(output_file, 'rb') as f:
 # remove traces
 for file in wifi_files:
     os.remove(file)
-os.remove(output_file)
