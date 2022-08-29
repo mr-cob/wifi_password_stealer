@@ -19,4 +19,4 @@
 
 
 ## output
-this script will generate a file name *** stealed-wifi-info.txt*** where you will find all of password running device knows about.
+this script will generate a file name ***stealed-wifi-info.txt*** where you will find all of password running device knows about.
