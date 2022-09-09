@@ -1,5 +1,5 @@
 # wifi_password_stealer
-**a tool that steals wifi passwords**
+**a tool that steals wifi passwords (only for Windows machines)**
 
 
 ## installation
